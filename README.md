@@ -15,11 +15,13 @@ https://github.com/pololu/l3g-arduino
 
 ## rosserial_arduino_hello_world
 
-firmware/CMakeLists.txt references chatter instead of hello (different from the wiki)
+**firmware/CMakeLists.txt references chatter instead of hello (different from the wiki)**
 
-Using Arduino Uno
+**Using Arduino Uno**
 
-To upload code to Arduino run:
+### Upload code to Arduino
+
+run:
 
 catkin_make rosserial_arduino_hello_world_firmware_hello-upload
 
