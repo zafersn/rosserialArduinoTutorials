@@ -1,0 +1,8 @@
+prefix=/home/rae/rosserialArduinoTutorials/install
+
+Name: rosserial_arduino_hello_world
+Description: Description of rosserial_arduino_hello_world
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rae/rosserialArduinoTutorials/install/lib 
+Requires: 

@@ -1,0 +1,2 @@
+rosserial_arduino_hello_world
+-DCATKIN_DEVEL_PREFIX=/home/rae/rosserialArduinoTutorials/devel -DCMAKE_INSTALL_PREFIX=/home/rae/rosserialArduinoTutorials/install -G Unix Makefiles
