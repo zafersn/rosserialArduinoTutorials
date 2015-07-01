@@ -31,7 +31,7 @@ instead of:
 
 catkin_make helloworld_firmware_hello-upload
 
-### rosserialArduinoSRF08UltrasonicRanger
+## rosserialArduinoSRF08UltrasonicRanger
 
 The code for the libray was not up to date with Arduino.h, updated.
 
