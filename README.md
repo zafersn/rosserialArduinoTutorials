@@ -18,6 +18,7 @@ https://github.com/pololu/l3g-arduino
 **NOTE**
 
 firmware/CMakeLists.txt references chatter instead of hello (different from the wiki)
+
 Using Arduino Uno
 
 ### Upload code to Arduino
