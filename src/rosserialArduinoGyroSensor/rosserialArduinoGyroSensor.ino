@@ -26,7 +26,7 @@
      Serial.println("Failed to autodetect gyro type!");
      while(1);
    }
-   
+   gyro.enableDefault();
    nh.initNode();
    nh.advertise(pub_gyro);
  }
