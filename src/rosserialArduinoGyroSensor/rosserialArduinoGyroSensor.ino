@@ -26,6 +26,7 @@
      Serial.println("Failed to autodetect gyro type!");
      while(1);
    }
+  //I did not work directly with this code but it worked successfully when I added the following line 
    gyro.enableDefault();
    nh.initNode();
    nh.advertise(pub_gyro);
